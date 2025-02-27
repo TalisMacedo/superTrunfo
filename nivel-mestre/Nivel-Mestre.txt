@@ -8,7 +8,8 @@ Prepare-se para usar todo o seu conhecimento de operadores relacionais, modifica
 
 O que você vai fazer
 
-Seu programa em C deve agora permitir ao usuário inserir os dados de duas cartas, assim como nos níveis anteriores, mas com uma mudança importante: a população agora deve ser armazenada como unsigned long int para acomodar números maiores. As demais informações permanecem com os mesmos tipos. 
+Seu programa em C deve agora permitir ao usuário inserir os dados de duas cartas, assim como nos níveis anteriores, mas com uma mudança importante: a população agora deve ser armazenada como unsigned long int para acomodar números maiores. 
+As demais informações permanecem com os mesmos tipos. 
 Após a leitura dos dados, seu programa deverá:
 
  
